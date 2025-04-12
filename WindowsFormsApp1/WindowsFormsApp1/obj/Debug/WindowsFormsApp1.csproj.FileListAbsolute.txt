@@ -1,0 +1,164 @@
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\GumroadLicensing.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Kimtoo.BindingProvider.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Kimtoo.ButtonGroup.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Kimtoo.Preloader.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Kimtoo.Reports.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Kimtoo.ThemeFactory.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Kimtoo.ValidationProvider.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NavigationMenu.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenHtmlToPdf.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login_Page.resources
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sign_up_Page.resources
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin.resources
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Cart_Page.resources
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Customer_Dashboard.resources
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Order_History.resources
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Check_Outcs.resources
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Delievery.resources
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Review_Page.resources
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Formats.Asn1.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Formats.Asn1.xml
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Window Forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\GumroadLicensing.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Kimtoo.BindingProvider.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Kimtoo.ButtonGroup.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Kimtoo.Preloader.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Kimtoo.Reports.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Kimtoo.ThemeFactory.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Kimtoo.ValidationProvider.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NavigationMenu.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenHtmlToPdf.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Formats.Asn1.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Formats.Asn1.xml
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Manager.resources
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Cart_Page.resources
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Customer_Dashboard.resources
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Delievery.resources
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login_Page.resources
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Order_History.resources
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Review_Page.resources
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sign_up_Page.resources
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Check_out.resources
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\Delieverable 2\Deliverable 3,22F-3351,22F-3280\E-commerce_Authorization\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Cashier.resources
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\GumroadLicensing.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Kimtoo.BindingProvider.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Kimtoo.ButtonGroup.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Kimtoo.Preloader.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Kimtoo.Reports.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Kimtoo.ThemeFactory.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Kimtoo.ValidationProvider.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NavigationMenu.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenHtmlToPdf.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Formats.Asn1.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Formats.Asn1.xml
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Cashier.resources
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Check_out.resources
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Manager.resources
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Cart_Page.resources
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Customer_Dashboard.resources
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Delievery.resources
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login_Page.resources
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Order_history.resources
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Review_Page.resources
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sign_up_Page.resources
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\SEMESTER 5\DB LAB\DB LAB PROJECT\22F-3351,22F-3280_Final Project\E-commerce\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
